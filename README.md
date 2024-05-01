@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-hazra-202321252/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href=""><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://x.com/_souvikhazra?t=H3OLYrgRbgSwhshELMBtAg&s=08"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/_souvikhazra?t=H3OLYrgRbgSwhshELMBtAg&s=08"><img src="https://img.shields.io/twitter/follow/:user" alt="Twitter"></a>
   <a href="mailto:souvikhazra151@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
   <p>Feel free to explore my projects below and connect with me! 🚀</p>
