@@ -28,7 +28,7 @@
   <p style="font-size: 20px; color: #2196F3; text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2), 3px 3px 0px rgba(0, 0, 0, 0.2), 4px 4px 0px rgba(0, 0, 0, 0.2);">Feel free to explore my projects below and connect with me! 🚀</p>
   <img src="https://media1.tenor.com/m/no_zyk3fCMoAAAAd/goku.gif">
 </div>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Mr-R-e-X/Mr-R-e-X/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Mr-R-e-X/Mr-R-e-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
