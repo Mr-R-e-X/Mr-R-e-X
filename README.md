@@ -26,6 +26,7 @@
   <a href="mailto:souvikhazra151@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
   <p style="font-size: 20px; color: #2196F3; text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2), 3px 3px 0px rgba(0, 0, 0, 0.2), 4px 4px 0px rgba(0, 0, 0, 0.2);">Feel free to explore my projects below and connect with me! 🚀</p>
+  <img src="https://media1.tenor.com/m/no_zyk3fCMoAAAAd/goku.gif">
 </div>
 <!--
 **Mr-R-e-X/Mr-R-e-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
