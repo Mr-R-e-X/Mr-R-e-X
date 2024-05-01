@@ -20,10 +20,10 @@
   <h2 align="center">🌐 Connect with Me:</h2>
 
 <p align="center">
-  <a href="Your LinkedIn Profile Link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="Your Portfolio Website Link"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/souvik-hazra-202321252/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/_souvikhazra"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
   <a href="Your Twitter Profile Link"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:Your Email Address"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:souvikhazra151@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
   <p>Feel free to explore my projects below and connect with me! 🚀</p>
 </div>
