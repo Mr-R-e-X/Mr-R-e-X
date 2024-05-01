@@ -58,6 +58,33 @@
   <p style="font-size: 20px; color: #2196F3; text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2), 3px 3px 0px rgba(0, 0, 0, 0.2), 4px 4px 0px rgba(0, 0, 0, 0.2);">Feel free to explore my projects below and connect with me! 🚀</p>
 </div>
 
+# 👋 Hi there! I'm Souvik
+
+### A Fullstack Web Developer passionate about crafting exceptional digital experiences
+
+Welcome to my GitHub repository! 🌟
+
+Let's create stunning web applications together using:
+
+- HTML5
+- CSS3
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- JavaScript
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- MongoDB
+- [Firebase](https://firebase.google.com/)
+
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-hazra-202321252/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white)](https://your-portfolio-url.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+
+Feel free to explore my projects below and connect with me! 🚀
 
 
 <!--
