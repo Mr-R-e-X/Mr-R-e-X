@@ -20,7 +20,7 @@
   <h2>🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-hazra-202321252/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30px"></a>
-  <a href=""><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" height="30px"></a>
+  <a href="https://www.exploresouvik.in"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio" height="30px"></a>
   <a href="https://x.com/_souvikhazra?t=H3OLYrgRbgSwhshELMBtAg&s=08"><img src="https://img.shields.io/twitter/follow/:_souvikhazra" alt="Twitter" height="30px"></a>
   <a href="mailto:souvikhazra151@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" height="30px"></a>
 </p>
