@@ -8,7 +8,9 @@
   <hr>
   <h2>🏢 Current Role</h2>
   <p>Software Engineer at <strong>Edviron</strong></p>
-  <img src="https://www.edviron.com/Group%20732logo.png" alt="Edviron Logo" height="60px">
+  <a href="https://www.edviron.com/">
+    <img src="https://www.edviron.com/Group%20732logo.png" alt="Edviron Logo" height="60px">
+  </a>
   <hr>
   <h2>🛠️ Tech Stack</h2>
   <p>
