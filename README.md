@@ -10,12 +10,21 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30px">
     <br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="30px">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="30px">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js" height="30px">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="30px">
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" height="30px">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" height="30px">
     <br>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" height="30px">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30px">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="30px">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30px">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" height="30px">
+    <br>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" height="30px">
+    <img src="https://img.shields.io/badge/Webhooks-FF9900?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks" height="30px">
+    <img src="https://img.shields.io/badge/Microservices-FF5733?style=flat-square&logo=microservices&logoColor=white" alt="Microservices" height="30px">
+    <img src="https://img.shields.io/badge/Payment Services-00A650?style=flat-square&logo=razorpay&logoColor=white" alt="Payment Services" height="30px">
   </p>
   <h2>🌐 Connect with Me</h2>
 <p align="center">
@@ -34,20 +43,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=dark" alt="Souvik Hazra's GitHub Streak">
   </p>
 </div>
-
-
-
-<!--
-**Mr-R-e-X/Mr-R-e-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
