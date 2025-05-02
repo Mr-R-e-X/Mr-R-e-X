@@ -6,7 +6,7 @@
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=30)
 
-### 🚀 Software Engineer | Fullstack Developer | Tech Enthusiast  
+### 🚀 Software Developer | Fullstack Developer | Tech Enthusiast  
 Crafting scalable and high-performance applications with modern web technologies.
 
 🌱 Constantly exploring new tools  
