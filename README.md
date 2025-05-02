@@ -9,22 +9,22 @@ Crafting scalable and high-performance applications with modern web technologies
 💬 Always open to collaboration  
 📬 Reach out and let's build something impactful!
 
-</div>
-
 ---
 
 ## 🏢 Current Role
+
 **Software Developer** at [Prodios Labs](https://prodioslabs.com/)  
 <img src="https://media.licdn.com/dms/image/v2/C4D0BAQH5MOtoafOS6A/company-logo_100_100/company-logo_100_100/0/1634465734807?e=1751500800&v=beta&t=RGQ5zh5u6F-dRuw8cDKxAzU1-gPyXrXv7Z2H4z-wygA" alt="Prodios Labs Logo" width="50" height="50">
 
 ---
 
 ## 💼 Past Experience
-- 🛠 **SDE Intern** at [Edviron](https://www.edviron.com/) *(Jan 2025 – Mar 2025)*  
-  Worked on **Microservices**, **NestJS**, **React**, **GraphQL**, **Jest**, and integrated payment gateways like Easebuzz, Razorpay & Cashfree.
 
-- 🎓 **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/)  
-  Helped students master **Web Development**, debug projects, and grasp core development concepts.
+🛠 **SDE Intern** at [Edviron](https://www.edviron.com/) *(Jan 2025 – Mar 2025)*  
+Worked on **Microservices**, **NestJS**, **React**, **GraphQL**, **Jest**, and integrated payment gateways like Easebuzz, Razorpay & Cashfree.
+
+🎓 **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/)  
+Helped students master **Web Development**, debug projects, and grasp core development concepts.
 
 ---
 
@@ -51,6 +51,7 @@ Crafting scalable and high-performance applications with modern web technologies
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
@@ -71,13 +72,13 @@ Crafting scalable and high-performance applications with modern web technologies
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_souvikhazra)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikhazra151@gmail.com)
 
+🚀 Let’s build something amazing together → [exploresouvik.in](https://exploresouvik.in)
+
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-R-e-X&rank_icon=github&theme=dark&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=donut&theme=dark&hide_border=true" width="48%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-R-e-X&rank_icon=github&theme=dark&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=donut&theme=dark&hide_border=true" width="48%" />
 
----
+</div>
