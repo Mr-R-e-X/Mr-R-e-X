@@ -78,9 +78,9 @@ Helped students master **Web Development**, debug projects, and grasp core devel
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
+
 > [![trophy](https://github-profile-trophy.vercel.app/?username=Mr-R-e-X&theme=onedark&column=10&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 ---
 
 ## 🌐 Let's Connect
