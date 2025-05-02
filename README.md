@@ -30,58 +30,41 @@ Helped students master **Web Development**, debug projects, and grasp core devel
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
+### 🖥 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🖌️ Frontend
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/><br>HTML5</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/><br>CSS3</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"/><br>Tailwind</a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40"/><br>Bootstrap</a>
+### 🧠 Languages & Libraries
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-<br><br>
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ⚙️ Languages & Frameworks
+### ⚡ Tools & Other Tech
+![WebRTC](https://img.shields.io/badge/WebRTC-008000?style=for-the-badge&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF9900?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge)
+![Payments](https://img.shields.io/badge/Payments-00A650?style=for-the-badge&logo=razorpay&logoColor=white)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/><br>JavaScript</a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40"/><br>TypeScript</a>&nbsp;&nbsp;
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/><br>React</a>&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40"/><br>Next.js</a>&nbsp;&nbsp;
-<a href="https://redux-toolkit.js.org/"><img src="https://skillicons.dev/icons?i=redux&theme=dark" height="40"/><br>Redux Toolkit</a>
-
-<br><br>
-
-### 🧩 Backend
-
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/><br>Node.js</a>&nbsp;&nbsp;
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40"/><br>Express.js</a>&nbsp;&nbsp;
-<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40"/><br>NestJS</a>&nbsp;&nbsp;
-<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="40"/><br>GraphQL</a>
-
-<br><br>
-
-### 🗄️ Databases
-
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40"/><br>MongoDB</a>&nbsp;&nbsp;
-<a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28"/><br>Mongoose</a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40"/><br>PostgreSQL</a>&nbsp;&nbsp;
-<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="40"/><br>Prisma</a>
-
-<br><br>
-
-### 🧪 Tools & DevOps
-
-<a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40"/><br>Jest</a>&nbsp;&nbsp;
-<a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio&theme=dark" height="40"/><br>Socket.io</a>&nbsp;&nbsp;
-<a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/><br>Figma</a>&nbsp;&nbsp;
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40"/><br>Vercel</a>
-
-</div>
-
-
----
 
 ## 📈 GitHub Stats & Activity
 
