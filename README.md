@@ -32,33 +32,54 @@ Helped students master **Web Development**, debug projects, and grasp core devel
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" height="40"/></a>
-  <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="40"/></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" height="40"/></a>
-  <a href="https://redux-toolkit.js.org/"><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" height="40"/></a>
-  <br>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="40"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" height="40"/></a>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" height="40"/></a>
-  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" height="40"/></a>
-  <br>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" height="40"/></a>
-  <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" height="30"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" height="40"/></a>
-  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" height="40"/></a>
-  <br>
-  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest" height="40"/></a>
-  <a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio&theme=dark" alt="Socket.io" height="40"/></a>
-  <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" height="40"/></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" height="40"/></a>
-</p>
+<div align="center">
+
+### 🖌️ Frontend
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/><br>HTML5</a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/><br>CSS3</a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40"/><br>Tailwind</a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40"/><br>Bootstrap</a>
+
+<br><br>
+
+### ⚙️ Languages & Frameworks
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/><br>JavaScript</a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40"/><br>TypeScript</a>&nbsp;&nbsp;
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/><br>React</a>&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40"/><br>Next.js</a>&nbsp;&nbsp;
+<a href="https://redux-toolkit.js.org/"><img src="https://skillicons.dev/icons?i=redux&theme=dark" height="40"/><br>Redux Toolkit</a>
+
+<br><br>
+
+### 🧩 Backend
+
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/><br>Node.js</a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40"/><br>Express.js</a>&nbsp;&nbsp;
+<a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40"/><br>NestJS</a>&nbsp;&nbsp;
+<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="40"/><br>GraphQL</a>
+
+<br><br>
+
+### 🗄️ Databases
+
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="40"/><br>MongoDB</a>&nbsp;&nbsp;
+<a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28"/><br>Mongoose</a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40"/><br>PostgreSQL</a>&nbsp;&nbsp;
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="40"/><br>Prisma</a>
+
+<br><br>
+
+### 🧪 Tools & DevOps
+
+<a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest&theme=dark" height="40"/><br>Jest</a>&nbsp;&nbsp;
+<a href="https://socket.io/"><img src="https://skillicons.dev/icons?i=socketio&theme=dark" height="40"/><br>Socket.io</a>&nbsp;&nbsp;
+<a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/><br>Figma</a>&nbsp;&nbsp;
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40"/><br>Vercel</a>
+
+</div>
+
 
 ---
 
