@@ -32,7 +32,7 @@ Helped students master **Web Development**, debug projects, and grasp core devel
 
 ## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,nestjs,graphql,mongodb,postgres,prisma,jest,websocket,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux,nodejs,express,nestjs,graphql,mongodb,postgres,prisma,jest,websocket&theme=dark" />
 
 ---
 
