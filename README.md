@@ -7,18 +7,18 @@
   <p>🎯 Let's collaborate and build impactful applications together!</p>
   <hr>
   <h2>🏢 Current Role</h2>
-<p style="display: inline-flex; align-items: center; gap: 6px; margin: 0;">
-    Software Developer at 
-    <a href="https://prodioslabs.com/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
-      <img src="https://media.licdn.com/dms/image/v2/C4D0BAQH5MOtoafOS6A/company-logo_100_100/company-logo_100_100/0/1634465734807?e=1751500800&v=beta&t=RGQ5zh5u6F-dRuw8cDKxAzU1-gPyXrXv7Z2H4z-wygA" 
-           alt="Prodios Labs" 
-           width="20" 
-           height="20"
-           style="margin-left: 6px;" />
-      <strong style="margin-left: 6px;">Prodios Labs</strong>
-    </a>
-  </p>
+<div style="display: inline-flex; align-items: center; gap: 6px; margin: 0; font-size: 16px;">
+  <span>Software Developer at</span>
+  <a href="https://prodioslabs.com/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQH5MOtoafOS6A/company-logo_100_100/company-logo_100_100/0/1634465734807?e=1751500800&v=beta&t=RGQ5zh5u6F-dRuw8cDKxAzU1-gPyXrXv7Z2H4z-wygA" 
+         alt="Prodios Labs" 
+         width="20" 
+         height="20"
+         style="margin-left: 6px;" />
+    <strong style="margin-left: 6px;">Prodios Labs</strong>
   </a>
+</div>
+
   <hr>
   <h2>🛠️ Tech Stack</h2>
   <p>
