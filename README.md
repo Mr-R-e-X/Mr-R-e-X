@@ -25,7 +25,7 @@ Crafting scalable and high-performance applications with modern web technologies
 ## 💼 Past Experience
 
 🛠 **SDE Intern** at [Edviron](https://www.edviron.com/) *(Jan 2025 – Mar 2025)*  
-Worked on **Microservices**, **NestJS**, **React**, **GraphQL**, **Jest**, and integrated payment gateways like Easebuzz, Razorpay & Cashfree.
+Worked on **Microservices**, **NestJS**, **MongoDB**, **Mongoose**, **React**, **GraphQL**, **Jest**, and integrated payment gateways like Easebuzz, Razorpay, Cashfree, HDFC, CCAvenue, NttData/atom etc.
 
 🎓 **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/)  
 Helped students master **Web Development**, debug projects, and grasp core development concepts.
