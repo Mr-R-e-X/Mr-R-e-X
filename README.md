@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there!+I'm+Souvik+Hazra+👋;Software+Developer+🚀;Building+Scalable+and+Robust+Apps+💻;Always+Learning+and+Improving+💡](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there!+I%27m+Souvik+Hazra+%F0%9F%91%8B;Software+Developer+%F0%9F%9A%80;Building+Scalable+and+Robust+Apps+%F0%9F%92%BB;Always+Learning+and+Improving+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there!+I'm+Souvik+Hazra+👋;Software+Developer+🚀;Building+Scalable+and+Robust+Apps+💻;Always+Learning+and+Improving+💡](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there!+I%27m+Souvik+Hazra+%F0%9F%91%8B;Software+Developer+%F0%9F%9A%80;Building+Scalable+and+Robust+Apps+%F0%9F%92%BB;Always+Learning+and+Improving+%F0%9F%92%A1" alt="Typing SVG" />
 
 
 
