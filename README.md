@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=Hi+there!+I'm+Souvik+Hazra+👋;Full-Stack+Developer+%7C+Tech+Enthusiast+🚀;Crafting+Scalable+Web+Apps+with+Love+💙;Always+Learning+%26+Building+Something+Cool+🔥;Let’s+Code+Something+Amazing+Together!+💻" alt="Typing SVG" />
-</p>
 
 
 
