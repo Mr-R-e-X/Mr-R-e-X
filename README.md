@@ -1,6 +1,9 @@
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=800&lines=Hi+there!+I'm+Souvik+Hazra+👋;Full-Stack+Web+Developer+🚀;Crafting+scalable+and+robust+apps+💻;Always+learning+and+innovating+💡;Let’s+build+something+amazing+together!+🌟" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=800&lines=Hi+there!+I'm+Souvik+Hazra+👋;Software+Developer+🚀;Building+Scalable+and+Robust+Apps+💻;Always+Learning+and+Improving+💡" alt="Typing SVG" />
+</p>
+
 
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=30)
