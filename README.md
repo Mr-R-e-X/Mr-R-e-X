@@ -19,6 +19,16 @@ Welcome to my GitHub! 🌟
 
 ---
 
+## 💼 Past Experience
+
+**SDE Intern at [Edviron](https://www.edviron.com/)** (Jan 2025 – Mar 2025)  
+Worked on microservices, NestJS, React, GraphQL, Jest, and payment gateway integration (Easebuzz, Razorpay, Cashfree).
+
+**Teaching Assistant at [Coding Ninjas](https://www.codingninjas.com/)**  
+Guided students in mastering DSA, Web Development, and project debugging.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**  
