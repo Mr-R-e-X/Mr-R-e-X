@@ -18,8 +18,6 @@ Crafting scalable and high-performance applications with modern web technologies
 ## 🏢 Current Role
 
 **Software Developer** at [Prodios Labs](https://prodioslabs.com/)  
-<img src="https://media.licdn.com/dms/image/v2/C4D0BAQH5MOtoafOS6A/company-logo_100_100/company-logo_100_100/0/1634465734807?e=1751500800&v=beta&t=RGQ5zh5u6F-dRuw8cDKxAzU1-gPyXrXv7Z2H4z-wygA" alt="Prodios Labs Logo" width="60" height="60" />
-
 ---
 
 ## 💼 Past Experience
