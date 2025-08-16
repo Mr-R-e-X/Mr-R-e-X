@@ -85,11 +85,10 @@ Helped students master **Fullstack Development**, debug projects, and grasp core
 
 ## 📈 GitHub Stats & Activity
 
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-R-e-X&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=donut&theme=tokyonight&hide_border=true)
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
