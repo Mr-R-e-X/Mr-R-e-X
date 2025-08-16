@@ -89,11 +89,12 @@ Helped students master **Fullstack Development**, debug projects, and grasp core
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-R-e-X&theme=tokyonight&hide_border=true" height="150"/>
 </p>
----
 
 ## 🏆 GitHub Trophies
 
-> [![trophy](https://github-profile-trophy.vercel.app/?username=Mr-R-e-X&theme=onedark&column=10&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-R-e-X&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" alt="Trophies" />
+</p>
 
 ---
 
