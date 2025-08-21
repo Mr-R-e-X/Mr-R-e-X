@@ -106,6 +106,7 @@ Helped students master **Fullstack Development**, debug projects, and grasp core
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikhazra151@gmail.com)
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mr-R-e-X)
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
