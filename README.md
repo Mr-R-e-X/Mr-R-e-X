@@ -6,15 +6,11 @@
 
 </div>
 
----
-
-## 👋 About Me
+### 👋 About Me
 **Software Developer** with a strong **backend-first mindset**.  
 Focused on **scalable systems**, **type-safe APIs**, and **clean architectures** built for production.
 
----
-
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 **Languages**  
 `TypeScript` · `JavaScript` · `Go`
@@ -28,14 +24,10 @@ Focused on **scalable systems**, **type-safe APIs**, and **clean architectures**
 **Data**  
 `PostgreSQL` · `MongoDB` · `Prisma`
 
----
-
-## 🏢 Current Role
+### 🏢 Current Role
 **Software Developer** — Prodios Labs
 
----
-
-## 🔗 Connect
+### 🔗 Connect
 - 🌐 Portfolio: https://exploresouvik.in  
 - 💼 LinkedIn: https://www.linkedin.com/in/souvik-hazra-202321252/  
 - 🧑‍💻 GitHub: https://github.com/Mr-R-e-X  
