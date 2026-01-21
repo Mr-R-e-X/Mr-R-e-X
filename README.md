@@ -42,6 +42,6 @@ Software Developer with a strong <b>backend-first mindset</b>. Focused on
 <p align="center">
 🌐 <a href="https://exploresouvik.in">Portfolio</a> &nbsp;•&nbsp;
 💼 <a href="https://www.linkedin.com/in/souvik-hazra-202321252/">LinkedIn</a> &nbsp;•&nbsp;
-🧑‍💻 <a href="https://github.com/Mr-R-e-X">GitHub</a> &nbsp;•&nbsp;
+<!-- 🧑‍💻 <a href="https://github.com/Mr-R-e-X">GitHub</a> &nbsp;•&nbsp; -->
 ✉️ <a href="mailto:souvhikhazra151@gmail.com">Email</a>
 </p>
