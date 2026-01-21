@@ -6,18 +6,14 @@
 
 </div>
 
----
-
-<h2 align="center">👋 About Me</h2>
+<h4 align="center">👋 About Me</h4>
 
 <p align="center">
 Software Developer with a strong <b>backend-first mindset</b>.<br/>
 Focused on <b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architectures</b> built for production.
 </p>
 
----
-
-<h2 align="center">⚡ Tech Stack</h2>
+<h4 align="center">⚡ Tech Stack</h4>
 
 <p align="center">
 <b>Languages</b><br/>
@@ -39,18 +35,14 @@ Focused on <b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architec
 <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Prisma</code>
 </p>
 
----
-
-<h2 align="center">🏢 Current Role</h2>
+<h4 align="center">🏢 Current Role</h4>
 
 <p align="center">
 <b>Software Developer</b><br/>
 Prodios Labs
 </p>
 
----
-
-<h2 align="center">🔗 Connect</h2>
+<h4 align="center">🔗 Connect</h4>
 
 <p align="center">
 🌐 <a href="https://exploresouvik.in">Portfolio</a> &nbsp;•&nbsp;
