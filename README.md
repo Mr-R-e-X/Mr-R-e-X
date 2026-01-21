@@ -6,51 +6,38 @@
 
 </div>
 
----
-
-<h2 align="center">👋 About Me</h2>
+<h4 align="center">👋 About Me</h4>
 
 <p align="center">
-Software Developer with a strong <b>backend-first mindset</b>.<br/>
-Focused on <b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architectures</b> built for production.
+Software Developer with a strong <b>backend-first mindset</b>. Focused on
+<b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architectures</b>.
 </p>
 
----
-
-<h2 align="center">⚡ Tech Stack</h2>
+<h4 align="center">⚡ Tech Stack</h4>
 
 <p align="center">
-<b>Languages</b><br/>
-<code>TypeScript</code> · <code>JavaScript</code> · <code>Go</code>
+🧠 <b>Languages</b> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Go</code>
 </p>
 
 <p align="center">
-<b>Backend</b><br/>
-<code>Node.js</code> · <code>NestJS</code> · <code>Express</code> · <code>tRPC</code>
+🔧 <b>Backend</b> · <code>Node.js</code> · <code>NestJS</code> · <code>Express</code> · <code>tRPC</code>
 </p>
 
 <p align="center">
-<b>Frontend</b><br/>
-<code>React</code> · <code>Next.js</code>
+🎨 <b>Frontend</b> · <code>React</code> · <code>Next.js</code>
 </p>
 
 <p align="center">
-<b>Data</b><br/>
-<code>PostgreSQL</code> · <code>MongoDB</code> · <code>Prisma</code>
+🗄️ <b>Data</b> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Prisma</code>
 </p>
 
----
-
-<h2 align="center">🏢 Current Role</h2>
+<h4 align="center">🏢 Current Role</h4>
 
 <p align="center">
-<b>Software Developer</b><br/>
-Prodios Labs
+<b>Software Developer</b> @ Prodios Labs
 </p>
 
----
-
-<h2 align="center">🔗 Connect</h2>
+<h4 align="center">🔗 Connect</h4>
 
 <p align="center">
 🌐 <a href="https://exploresouvik.in">Portfolio</a> &nbsp;•&nbsp;
