@@ -19,6 +19,7 @@ Crafting scalable and high-performance applications with modern web technologies
 ## 🏢 Current Role
 
 **Software Developer** at [Prodios Labs](https://prodioslabs.com/)  
+<!-- 
 ---
 
 ## 💼 Past Experience
@@ -30,6 +31,7 @@ Worked on **Microservices**, **NestJS**, **MongoDB**, **Mongoose**, **React**, *
 Helped students master **Fullstack Development**, debug projects, and grasp core development concepts.
 
 ---
+-->
 
 ## 💻 Tech Stack
 
