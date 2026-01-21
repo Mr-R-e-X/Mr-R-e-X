@@ -16,22 +16,22 @@ Focused on <b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architec
 <h4 align="center">⚡ Tech Stack</h4>
 
 <p align="center">
-<b>Languages</b><br/>
+<b>Languages</b> :: 
 <code>TypeScript</code> · <code>JavaScript</code> · <code>Go</code>
 </p>
 
 <p align="center">
-<b>Backend</b><br/>
+<b>Backend</b> :: 
 <code>Node.js</code> · <code>NestJS</code> · <code>Express</code> · <code>tRPC</code>
 </p>
 
 <p align="center">
-<b>Frontend</b><br/>
+<b>Frontend</b> :: 
 <code>React</code> · <code>Next.js</code>
 </p>
 
 <p align="center">
-<b>Data</b><br/>
+<b>Data</b> :: 
 <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Prisma</code>
 </p>
 
