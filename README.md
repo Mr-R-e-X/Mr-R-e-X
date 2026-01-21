@@ -9,43 +9,34 @@
 ---
 
 ## 👋 About Me
-I’m a **Software Developer** with a strong **backend-first mindset**.  
-I enjoy designing **scalable systems**, building **type-safe APIs**, and crafting **clean, maintainable architectures** that perform reliably in production.
+**Software Developer** with a strong **backend-first mindset**.  
+Focused on **scalable systems**, **type-safe APIs**, and **clean architectures** built for production.
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🧠 Languages
-- TypeScript
-- JavaScript
-- Go
+**Languages**  
+`TypeScript` · `JavaScript` · `Go`
 
-### 🔧 Backend
-- Node.js
-- NestJS
-- Express
-- tRPC
+**Backend**  
+`Node.js` · `NestJS` · `Express` · `tRPC`
 
-### 🎨 Frontend
-- React
-- Next.js
+**Frontend**  
+`React` · `Next.js`
 
-### 🗄️ Databases & ORM
-- PostgreSQL
-- MongoDB
-- Prisma
+**Data**  
+`PostgreSQL` · `MongoDB` · `Prisma`
 
 ---
 
 ## 🏢 Current Role
-**Software Developer**  
-📍 Prodios Labs
+**Software Developer** — Prodios Labs
 
 ---
 
-## 🔗 Connect With Me
-- 🌐 Portfolio: [https://exploresouvik.in](https://exploresouvik.in)
-- 💼 LinkedIn: [Souvik Hazra](https://www.linkedin.com/in/souvik-hazra-202321252/)
-- 🧑‍💻 GitHub: [@Mr-R-e-X](https://github.com/Mr-R-e-X)
+## 🔗 Connect
+- 🌐 Portfolio: https://exploresouvik.in  
+- 💼 LinkedIn: https://www.linkedin.com/in/souvik-hazra-202321252/  
+- 🧑‍💻 GitHub: https://github.com/Mr-R-e-X  
 - ✉️ Email: souvhikhazra151@gmail.com
