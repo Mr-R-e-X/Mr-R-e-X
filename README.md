@@ -38,7 +38,7 @@ Focused on <b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architec
 <h4 align="center">🏢 Current Role</h4>
 
 <p align="center">
-<b>Software Developer</b><br/>
+<b>Software Developer</b> @ 
 Prodios Labs
 </p>
 
