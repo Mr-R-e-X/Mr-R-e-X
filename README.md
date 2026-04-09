@@ -37,7 +37,7 @@ Software Developer with a strong <b>backend-first mindset</b>. Focused on
 <b>Software Developer</b> @ Prodios Labs
 </p>
 
-<h4 align="center">🔗 Connect</h4>
+<!-- <h4 align="center">🔗 Connect</h4> -->
 
 <!-- <p align="center">
 🌐 <a href="https://exploresouvik.in">Portfolio</a> &nbsp;•&nbsp;
