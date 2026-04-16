@@ -1,46 +1,142 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&width=900&lines=Hi%2C+I'm+Souvik+Hazra+👋;Backend-Focused+Software+Developer;Building+Scalable+and+Type-Safe+Systems;Always+Learning+%26+Improving" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&width=900&lines=Hi%2C+I'm+Souvik+Hazra+👋;Backend-Focused+Full+Stack+Developer;Building+Scalable+%26+Type-Safe+Systems;Payment+Systems+%7C+Real-Time+Apps+%7C+Microservices;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-exploresouvik.in-00F7FF?style=for-the-badge&logoColor=white)](https://exploresouvik.in)
+[![Email](https://img.shields.io/badge/Gmail-souvikhazra151@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikhazra151@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mr--R--e--X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-R-e-X)
+[![Location](https://img.shields.io/badge/📍_Dehradun,_India-Uttarakhand-orange?style=for-the-badge)](https://maps.google.com/?q=Dehradun,Uttarakhand,India)
 
 </div>
 
-<h4 align="center">👋 About Me</h4>
+---
 
-<p align="center">
-Software Developer with a strong <b>backend-first mindset</b>. Focused on
-<b>scalable systems</b>, <b>type-safe APIs</b>, and <b>clean architectures</b>.
-</p>
+## 🧑‍💻 About Me
 
-<h4 align="center">⚡ Tech Stack</h4>
+Results-driven **Full Stack Software Developer** building scalable, type-safe, and production-grade systems.
 
-<p align="center">
-🧠 <b>Languages</b> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Go</code>
-</p>
+- 🏢 Currently building at **Prodios Labs** — working on **UCC** & **Tealfeed** using NestJS, tRPC, and Turborepo monorepo
+- 💳 Previously at **Edviron** — built **payment microservices** handling **₹25–30 Cr/month** across **60,000+ transactions**
+- ⚙️ Experienced in **microservices architecture**, monorepos, and distributed system patterns
+- 🎓 **3,912+ verified doubts** resolved on Coding Ninjas as a Full Stack Teaching Assistant
+- 🔐 Hands-on with **AES-GCM encryption**, **DigiLocker**, **JWT/Session auth**, and **webhook-based payment flows**
+- 🌱 Currently exploring **Golang** and **Python**
+- ⚡ Fun fact: I listen to audio stories and love travelling between deployments 🎧🗺️
 
-<p align="center">
-🔧 <b>Backend</b> · <code>Node.js</code> · <code>NestJS</code> · <code>Express</code> · <code>tRPC</code>
-</p>
+---
 
-<p align="center">
-🎨 <b>Frontend</b> · <code>React</code> · <code>Next.js</code>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-🗄️ <b>Data</b> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Prisma</code>
-</p>
+<div align="center">
 
-<h4 align="center">🏢 Current Role</h4>
+### 💬 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p align="center">
-<b>Software Developer</b> @ Prodios Labs
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- <h4 align="center">🔗 Connect</h4> -->
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- <p align="center">
-🌐 <a href="https://exploresouvik.in">Portfolio</a> &nbsp;•&nbsp;
-💼 <a href="https://www.linkedin.com/in/souvik-hazra-202321252/">LinkedIn</a> &nbsp;•&nbsp;
-✉️ <a href="mailto:souvhikhazra151@gmail.com">Email</a>
-</p> -->
+### 🗄️ Databases & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+
+### 💳 Payments & Integrations
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Cashfree](https://img.shields.io/badge/Cashfree-00BFA6?style=for-the-badge&logoColor=white)
+![Easebuzz](https://img.shields.io/badge/Easebuzz-FF6A00?style=for-the-badge&logoColor=white)
+![PayU](https://img.shields.io/badge/PayU-142688?style=for-the-badge&logoColor=white)
+![HDFC](https://img.shields.io/badge/HDFC_Gateway-004C97?style=for-the-badge&logoColor=white)
+
+### 📡 Real-Time & Messaging
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🌱 Currently Exploring
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Software Developer — Prodios Labs *(May 2025 – Present)*
+> NestJS · ReactJs · tRPC · TypeScript · Turborepo · Redis · Prisma · Docker · AWS S3
+
+Building backend services for **UCC** and **Tealfeed** — handling admin systems, session workflows, payment dashboards, real-time notifications, and secure document management within a Turborepo monorepo architecture.
+
+---
+
+### 💳 Software Developer Intern — Edviron *(Jan 2025 – Apr 2025)*
+> NestJS · ReactJs · TypeScript · Microservices · SQS · Jest · Razorpay · Cashfree · HDFC · PayU · Easebuzz
+
+Built unified payment microservices across 5 gateways, processing **₹25–30 Cr/month** and **60,000+ transactions** — with 99.9% uptime, p95 latency under 300ms, and Jest coverage scaled from **0.5% → 80%**.
+
+---
+
+### 🎓 Full Stack Teaching Assistant — Coding Ninjas *(Jan 2024 – Present)*
+
+Resolved **3,912+ verified doubts** across backend & full-stack topics. Conducted 1:1 debugging sessions and code reviews — 2hrs/day alongside full-time work.
+
+---
+
+## 🌐 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R-e-X&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+Got a challenging backend problem, a payment system to build, or just want to say hi? I'm open to exciting opportunities!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-exploresouvik.in-00F7FF?style=for-the-badge)](https://exploresouvik.in)
+[![Email](https://img.shields.io/badge/📧_Email_Me-souvikhazra151@gmail.com-EA4335?style=for-the-badge)](mailto:souvikhazra151@gmail.com)
+[![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-Mr--R--e--X-181717?style=for-the-badge&logo=github)](https://github.com/Mr-R-e-X)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Mr-R-e-X&label=Profile+Views&color=00F7FF&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+
+*"Ship fast. Test well. Scale smart."*
+
+</div>
