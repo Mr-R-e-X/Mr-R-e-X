@@ -106,7 +106,7 @@ Built unified payment microservices across 5 gateways, processing **₹25–30 C
 
 Resolved **3,912+ verified doubts** across backend & full-stack topics. Conducted 1:1 debugging sessions and code reviews — 2hrs/day alongside full-time work.
 
----
+<!-- ---
 
 ## 🌐 Activity Graph
 
@@ -114,7 +114,8 @@ Resolved **3,912+ verified doubts** across backend & full-stack topics. Conducte
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-R-e-X&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
+--- -->
+
 
 ## 📬 Let's Connect
 
