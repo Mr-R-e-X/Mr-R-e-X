@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-exploresouvik.in-00F7FF?style=for-the-badge&logoColor=white)](https://exploresouvik.in)
 [![Email](https://img.shields.io/badge/Gmail-souvikhazra151@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikhazra151@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--R--e--X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-R-e-X)
-[![Location](https://img.shields.io/badge/📍_Dehradun,_India-Uttarakhand-orange?style=for-the-badge)](https://maps.google.com/?q=Dehradun,Uttarakhand,India)
 
 </div>
 
