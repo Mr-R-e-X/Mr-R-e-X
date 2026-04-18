@@ -86,7 +86,7 @@ Results-driven **Full Stack Software Developer** building scalable, type-safe, a
 
 ---
 
-## 💼 Professional Experience
+<-- ## 💼 Professional Experience
 
 ### 🚀 Software Developer — Prodios Labs *(May 2025 – Present)*
 > NestJS · ReactJs · tRPC · TypeScript · Turborepo · Redis · Prisma · Docker · AWS S3
@@ -140,3 +140,4 @@ Got a challenging backend problem, a payment system to build, or just want to sa
 *"Ship fast. Test well. Scale smart."*
 
 </div>
+-->
