@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&width=900&lines=Hi%2C+I'm+Souvik+Hazra+👋;Backend-Focused+Full+Stack+Developer;Building+Scalable+%26+Type-Safe+Systems;Payment+Systems+%7C+Real-Time+Apps+%7C+Microservices;Always+Learning+%26+Shipping+🚀" alt="Typing SVG" />
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-exploresouvik.in-00F7FF?style=for-the-badge&logoColor=white)](https://exploresouvik.in)
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-exploresouvik.in-00F7FF?style=for-the-badge&logoColor=white)](https://exploresouvik.in) -->
 [![Email](https://img.shields.io/badge/Gmail-souvikhazra151@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikhazra151@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--R--e--X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-R-e-X)
 
