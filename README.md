@@ -18,14 +18,6 @@
 
 Results-driven **Full Stack Software Developer** building scalable, type-safe, and production-grade systems.
 
-- 🏢 Currently building at **Prodios Labs** — working on **UCC** & **Tealfeed** using NestJS, tRPC, and Turborepo monorepo
-- 💳 Previously at **Edviron** — built **payment microservices** handling **₹25–30 Cr/month** across **60,000+ transactions**
-- ⚙️ Experienced in **microservices architecture**, monorepos, and distributed system patterns
-- 🎓 **3,912+ verified doubts** resolved on Coding Ninjas as a Full Stack Teaching Assistant
-- 🔐 Hands-on with **AES-GCM encryption**, **DigiLocker**, **JWT/Session auth**, and **webhook-based payment flows**
-- 🌱 Currently exploring **Golang** and **Python**
-- ⚡ Fun fact: I listen to audio stories and love travelling between deployments 🎧🗺️
-
 ---
 
 ## 🛠️ Tech Stack
