@@ -76,3 +76,4 @@ Results-driven **Full Stack Software Developer** building scalable, type-safe, a
 </div>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R-e-X&layout=compact&theme=tokyonight)
